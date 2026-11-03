@@ -2,6 +2,7 @@
 
 An interactive Power BI dashboard that analyzes sales performance, profit trends
 and units sold across products, months and countries.
+## dashboard preview
 ![financial sales dashboard](images/dashboard_preview.png)
 ## Project Objective
 Help business stakeholders understand which products, months and regions drive
@@ -39,6 +40,8 @@ Sale Price, Gross Sales, Discounts, Sales, COGS, Profit, Date, Month and Year.
 └── README.md
 ```
 ## Author
-Pranav zaware |
-##[LinkedIn]-(https://www.linkedin.com/in/pranav-zaware-185189268/)|
-##[GitHub]-(https://github.com/pranavzaware8-wq)
+Pranav zaware
+## [LinkedIn]- 
+   (https://www.linkedin.com/in/pranav-zaware-185189268/)|
+## [GitHub]-
+   (https://github.com/pranavzaware8-wq)
