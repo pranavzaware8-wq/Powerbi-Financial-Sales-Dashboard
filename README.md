@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyzes sales performance, profit trends
 and units sold across products, months and countries.
-![Financial Sales Dashboard](images/dashboard_preview.png)
+![financial sales dashboard](images/dashboard_preview.png)
 ## Project Objective
 Help business stakeholders understand which products, months and regions drive
 the most sales and profit.
